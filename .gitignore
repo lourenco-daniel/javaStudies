@@ -27,3 +27,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+<<<<<<< HEAD
+=======
+
+./src/Exemplo2.java
+./src/Exemplo2.class
+./src/test1.java
+./src/Main.java
+>>>>>>> 5adef549aac743aa59ac8db8ac0b3fdb11f3e19d
